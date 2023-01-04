@@ -1,2 +1,6 @@
-# HCV-Dedree
-A empty framework for gradation-like adjustment. It provides no functionality, only enforces mannerisms.
+# HDV-Degree
+
+<img src="img/logo.png" width="300px">
+
+## Summary
+HCV-Degree is empty framework to enforces the mannerisms. This provides no functionality.
